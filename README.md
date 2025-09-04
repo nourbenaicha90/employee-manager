@@ -33,3 +33,8 @@ cd employee-manager
 pip install -r requirements.txt
 python main.py
 
+Option 2: Run the packaged EXE (Windows)
+
+Download the latest release from the Releases
+ section and run main.exe.
+
